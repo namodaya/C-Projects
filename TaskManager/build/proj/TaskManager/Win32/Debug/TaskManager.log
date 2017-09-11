@@ -1,0 +1,9 @@
+﻿Build started 9/11/2017 1:52:14 AM.
+     1>Project "E:\Oliv_Labs\C++ Tutorials\Projects\TaskManager\build\proj\TaskManager\TaskManager.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         TaskManager.vcxproj -> E:\Oliv_Labs\C++ Tutorials\Projects\TaskManager\build\proj\TaskManager\..\..\..\bin\Win32\Debug\TaskManager.exe
+     1>Done Building Project "E:\Oliv_Labs\C++ Tutorials\Projects\TaskManager\build\proj\TaskManager\TaskManager.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
